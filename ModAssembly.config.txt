@@ -1,2 +1,2 @@
-rgb (255,255,255)
+rgb (1,1,1)
 rainbow_grapple = true

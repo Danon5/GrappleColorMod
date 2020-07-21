@@ -10,3 +10,5 @@
 * Read the ModAssemblyReadMe file for documentation on the very primitive settings.
 
 * To uninstall, just remove all related files and then verify integrity of game files. (If you have other modifications, don't forget to make a backup of your modified sub-content folders first.
+
+* *Note, this changes your client side grapple color for ALL players, not just you*

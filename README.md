@@ -7,4 +7,4 @@
 
 * Supports realtime (in-game) config editing. Remember to save your changes to the config.txt.
 
-* To uninstall, just remove all related files and then verify integrity of game files. (If you have other modifications, don't forget to make a backup of your sub-content folders first.
+* To uninstall, just remove all related files and then verify integrity of game files. (If you have other modifications, don't forget to make a backup of your modified sub-content folders first.

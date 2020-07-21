@@ -5,4 +5,4 @@ All downloaded files go in the game's main directory (replace your SpeedRunners.
 
 Read the ModAssemblyReadMe file for documentation on the very primitive settings.
 
-Supports realtime config editing. Remember to save your changes to the config.txt.
+Supports realtime (in-game) config editing. Remember to save your changes to the config.txt.

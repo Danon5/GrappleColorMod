@@ -7,5 +7,5 @@ rainbow_grapple = true or false // if set to true, the rainbow grapple will over
 
 Example:
 
-rgb (255,255,255) // will be white
+rgb (1,1,1) // will be white
 rainbow_grapple = false

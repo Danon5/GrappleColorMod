@@ -2,7 +2,7 @@ Configuration file is very simple:
 1 line per argument. (case insensitive)
 
 Arguments are:
-rgb (number,number,number) // each number is between 0 and 255
+rgb (number,number,number) // each number is from 0 and 255
 rainbow_grapple = true or false // if set to true, the rainbow grapple will override any rgb settings
 
 Example:

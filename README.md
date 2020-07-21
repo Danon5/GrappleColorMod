@@ -5,6 +5,8 @@
 
 * Supports any input RGB color, or increments through HSV hue based on grapple inputs (rainbow_grapple setting).
 
+* Supports grapple size (width) editing.
+
 * All downloaded files go in the game's main directory (replace your SpeedRunners.exe with the one from this download).
 
 * Read the ModAssemblyReadMe file for documentation on the very primitive settings.

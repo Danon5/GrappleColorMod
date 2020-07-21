@@ -1,5 +1,5 @@
 Configuration file is very simple: 
-1 line per argument. (case insensitive)
+1 line per argument. (case sensitive)
 
 Arguments are:
 rgb (number,number,number) // each number is from 0 and 255

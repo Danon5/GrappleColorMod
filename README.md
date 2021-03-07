@@ -7,6 +7,8 @@
 
 * Supports grapple size (width) editing.
 
+* (NOT YET IMPLEMENTEd) Supports in-game ping text color editing (ping bar sprites can be edited through xnb files, this just changes the color of the ping number).
+
 * All downloaded files go in the game's main directory (replace your SpeedRunners.exe with the one from this download).
 
 * Read the ModAssemblyReadMe file for documentation on the very primitive settings.

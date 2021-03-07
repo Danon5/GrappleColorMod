@@ -15,4 +15,4 @@
 
 * To uninstall, just remove all related files and then verify integrity of game files. (If you have other modifications, don't forget to make a backup of your modified sub-content folders first.
 
-* *Note: this changes the grapple color of all players, client-side of course.*
+* *Note: this changes the grapple color of all players, client-side of course. If your game is crashing, you might have altered the configuration file in an unintended way. The syntax is very precise.*

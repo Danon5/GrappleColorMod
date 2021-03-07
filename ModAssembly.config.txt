@@ -1,3 +1,12 @@
+// grapple modifications
+
 rgb (0,0,0)
-rainbow_grapple = false
+rainbow_grapple = false	
 grapple_size = 1
+
+// ping modifications
+
+perfectPingRgb (0,1,0)
+goodPingRgb (1,1,0)
+decentPingRgb (1,.5,0)
+badPingRgb (1,0,0)

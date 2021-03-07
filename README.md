@@ -1,7 +1,7 @@
 # GrappleColorMod
 *A customizable grapple color mod for the game Speedrunners.*
 
-* Supports realtime (in-game) config editing. Remember to save your changes to the config.txt.
+* Supports realtime (in-game) config editing for certain features. Remember to save your changes to the config.txt.
 
 * Supports any input RGB color, or increments through HSV hue based on grapple inputs (rainbow_grapple setting).
 

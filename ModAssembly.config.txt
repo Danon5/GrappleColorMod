@@ -6,4 +6,4 @@ grapple_size = 1
 
 // ping modifications
 
-anonymizePing = true
+anonymizePlayers = false

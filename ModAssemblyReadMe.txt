@@ -7,7 +7,7 @@ Arguments are:
 rgb (number,number,number) // (0,0,0) is default (black)
 rainbow_grapple = true or false // if set to true, the rainbow grapple will override any rgb settings
 grapple_size = number // 1 is default
-anonymizePing = true of false // if set to true, all ping will be completely hidden
+anonymizePlayers = true of false // if set to true, all information about players will be completely hidden
 
 Example:
 
@@ -19,4 +19,4 @@ grapple_size = 5
 
 // ping modifications
 
-anonymizePing = true
+anonymizePlayers = true

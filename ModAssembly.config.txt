@@ -1,0 +1,9 @@
+// grapple modifications
+
+rgb (0,0,0)
+rainbow_grapple = false	
+grapple_size = 1
+
+// ping modifications
+
+anonymizePing = true

@@ -7,7 +7,7 @@
 
 * Supports grapple size (width) editing.
 
-* Supports ping anonymizing (hides or shows all mentions of ping).
+* Supports player anonymizing (allows the you to fully hide all information about players). **REQUIRES RESTART**
 
 * All downloaded files go in the game's main directory (replace your SpeedRunners.exe with the one from this download).
 

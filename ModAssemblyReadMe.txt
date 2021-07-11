@@ -17,6 +17,6 @@ rgb (.75,.5,1)
 rainbow_grapple = false	
 grapple_size = 5
 
-// ping modifications
+// anonymization modifications
 
 anonymizePlayers = true
